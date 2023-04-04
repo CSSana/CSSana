@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSSana
-- 👀 I’m interested in Competitive Coding and Machine Learning
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in Competitive Coding, Web development and Machine Learning
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
